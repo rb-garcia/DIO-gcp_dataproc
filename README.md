@@ -42,4 +42,5 @@ marcelo@smarques.com
 
 ### Referências
 https://cloud.google.com/docs/overview
+
 https://cloud.google.com/architecture/data-lifecycle-cloud-platform
